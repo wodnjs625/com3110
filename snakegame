@@ -21,6 +21,7 @@ BLACK = (0,0,0)
 
 SCR_WIDTH, SCR_HEIGHT = 800,600
 
+
 SNAKE_SIZE = 20
 snake_pos_x  = SCR_WIDTH/2 - SNAKE_SIZE/2
 snake_pos_y  = SCR_HEIGHT/2 - SNAKE_SIZE/2
